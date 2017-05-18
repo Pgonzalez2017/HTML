@@ -1,0 +1,63 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="especial.es" resolutions="1x" timestamp="1463093062949">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="asia.css" crc="187240191" ref="asia"/>
+    <file name="index.css" crc="3901961719" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="phone>index:phone>asia:tablet>index:tablet>america:index:asia"/>
+    <file name="museutils.js" crc="3790713428" ref="phone>index:phone>asia:tablet>index:tablet>america:index:asia"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>asia:tablet>index:tablet>america:index:asia"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>asia:index:asia"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="phone>index:phone>asia:tablet>index:tablet>america:index:asia"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="phone>index:phone>asia:index:asia"/>
+    <file name="webpro.js" crc="329496574" ref="phone>index:phone>asia:index:asia"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="phone>index:phone>asia:index:asia"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="phone>index:phone>asia:index:asia"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="phone>index:phone>asia:index:asia"/>
+    <file name="touchswipe.js" crc="497316881" ref="phone>index:phone>asia:index:asia"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="phone>index:phone>asia:index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="phone>index:phone>asia:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>asia:tablet>index:tablet>america:index:asia"/>
+    <file name="museredirect.js" crc="71780213" ref="tablet>index:index:asia"/>
+  </folder>
+  <folder name="images">
+    <file name="hamburguesa.png" crc="4244027318" ref="phone>index:phone>asia:index:asia"/>
+    <file name="hamburguesa_close.png" crc="103099379" ref="phone>index:phone>asia:index:asia"/>
+    <file name="logo_lv.jpg" crc="281122817" ref="phone>index:phone>asia:index:asia"/>
+    <file name="roma_1.jpg" crc="3960799134" seo="true" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>asia:index:asia"/>
+    <file name="roma_2.jpg" crc="534709983" seo="true" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>asia:index:asia"/>
+    <file name="mosaico.jpg" crc="3864055962" seo="true" ref="phone>index:phone>asia:index"/>
+    <file name="cara_2.jpg" crc="119155339" ref="phone>index:phone>asia:index"/>
+    <file name="cara_1.jpg" crc="346823710" ref="phone>index:phone>asia:index"/>
+    <file name="erechtheum_porch.jpg" crc="60072611" seo="true" ref="phone>index:index"/>
+    <file name="partenon,-atardecer-214580.jpg" crc="4100293501" seo="true" ref="phone>index:index"/>
+    <file name="fotos-cantabria-museo-cuevas-altamira-010.jpg" crc="3979642204" seo="true" ref="phone>index:index"/>
+    <file name="nomada_altamira1_20g.jpg" crc="3814180751" seo="true" ref="phone>index"/>
+    <file name="fushimi_inari_shrine_00_by_kicunetb-d6h2a6z.jpg" crc="4256289158" seo="true" ref="phone>asia:asia"/>
+    <file name="pz-1062200bokyoto.jpg" crc="3813760654" seo="true" ref="phone>asia:asia"/>
+    <file name="00177051.jpg" crc="68633826" seo="true" ref="phone>asia:asia"/>
+    <file name="pvchinajpg_55e71f5d6a75a.jpg" crc="3881637922" seo="true" ref="phone>asia:asia"/>
+    <file name="cuevasaltamira2.jpg" crc="3814180751" seo="true" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="197543295" ref="tablet>index"/>
+      <file name="america.css" crc="197543295" ref="tablet>america"/>
+    </folder>
+    <file name="index.html" crc="4281856472" seo="true" mt="1463089763319" redirect="false"/>
+    <file name="america.html" crc="109283537" seo="true" mt="1463089763319" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="asia.css" crc="420422783" ref="phone>asia"/>
+      <file name="index.css" crc="3939408902" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3966405343" seo="true" mt="1463092470135" redirect="true"/>
+    <file name="asia.html" crc="117606433" seo="true" mt="1463092163683" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="227230893" seo="true" mt="1463093054540" redirect="true"/>
+  <file name="asia.html" crc="439770593" seo="true" mt="1463092725284" redirect="true"/>
+</manifest>
